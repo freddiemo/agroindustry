@@ -45,6 +45,7 @@ INSTALLED_APPS = [
 
     'commerce',
     'inventory',
+    'settlement',
     'transport',
 ]
 
